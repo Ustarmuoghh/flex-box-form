@@ -1,0 +1,49 @@
+body{
+    background-color:whitesmoke;
+  
+
+}
+
+form{
+    background-color: white;
+    border: 10px;
+    border-radius: 10px;
+    width: 60%;
+    padding: 3px;
+    margin-top: 10px;
+}
+.google {
+   width: 10%;
+   height: 10%;
+   padding-top: 30px;
+}
+
+.current{
+    color: blue;
+
+}
+
+.next{
+    color: blue;
+}
+
+.signin{
+    color: blue;
+}
+
+.english{
+
+}
+
+.help{
+
+}
+
+.privacy{
+
+}
+
+.terms{
+
+
+}
